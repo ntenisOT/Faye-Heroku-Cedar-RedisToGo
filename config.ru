@@ -18,7 +18,7 @@ end
 
 faye_server = Faye::RackAdapter.new(
 			:mount => '/faye', 
-			:timeout => 45,
+			:timeout => 25,
 			:engine => {
 				:type => 'redis',
 				:host => 'icefish.redistogo.com',
