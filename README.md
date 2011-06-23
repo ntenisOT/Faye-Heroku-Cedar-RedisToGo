@@ -85,6 +85,33 @@ YOU WILL NEED TO INCLUDE TO YOUR APPLICATION THE FOLLOWING LINKS:
 	http://appname.herokuapp.com/faye
 	
 	http://appname.herokuapp.com/faye.js
+	
+Read More - More Examples
+-------------------------
+
+Faye Example Application: No need to run it on Cedar! 
+
+	http://fayeexample.heroku.com/ 
+	
+	Source code: 
+
+	https://github.com/ntenisOT/Faye-Example-Application 
+
+Faye Server on Heroku Cedar without RedisToGo: 
+	
+	http://fayeserverexample.herokuapp.com/ 
+	
+	Source code: 
+
+	https://github.com/ntenisOT/Faye-Heroku-Cedar 
+
+Faye Server on Heroku Cedar with RedisToGo: 
+
+	http://fayeredis.herokuapp.com 
+
+	Source code: 
+	
+	https://github.com/ntenisOT/Faye-Heroku-Cedar-RedisToGo 
 
 References
 ----------
